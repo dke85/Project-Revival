@@ -1,3 +1,12 @@
+.navbar-default .container-fluid {
+  background-color: #3f48cc;
+  width: 100%; }
+.navbar-default a {
+  color: #1c8e3e;
+  font-weight: bolder; }
 
+.navbar-brand img {
+  height: auto;
+  width: 100%; }
 
 /*# sourceMappingURL=general.css.map */
