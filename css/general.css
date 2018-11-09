@@ -23,4 +23,11 @@
   .navbar-nav li {
     float: left; }
 
+.title {
+  text-align: center;
+  font-size: 3em; }
+
+.Jumbotron {
+  background-color: #1c8e3e; }
+
 /*# sourceMappingURL=general.css.map */
