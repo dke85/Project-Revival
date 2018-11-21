@@ -1,6 +1,7 @@
-@import 'css\bootstrap.min.css'
-@import 'css\bootstrap-grid.min.css'
-@import 'css\bootstrap-reboot.min.css'
+@import css\bootstrap.min.css
+@import css\bootstrap-grid.min.css
+@import css\bootstrap-reboot.min.css
+=media-breakpoint-down($sm)
 
 .container-fluid
     .navbar-default
@@ -35,9 +36,6 @@
 .Jumbotron
     background-color: rgb(28,142,62)
 
-@include media-breakpoint-up($sm)
-    .core
-        .col-sm-12
-            margin-left: 15%   
-
+.hidden-sm-down 
+    +media-breakpoint-down(sm)
 
