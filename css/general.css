@@ -1,6 +1,3 @@
-@import url(css\bootstrap.min.css);
-@import url(css\bootstrap-grid.min.css);
-@import url(css\bootstrap-reboot.min.css);
 .container-fluid .navbar-default {
   background-color: #3f48cc; }
 .container-fluid a {
