@@ -30,4 +30,9 @@
 .Jumbotron {
   background-color: #1c8e3e; }
 
+section.core.container-fluid.col-sm-12.col-md-8 {
+  background-color: #DAE5F1;
+  margin-top: 25px;
+  padding: 1% 10% 0% 10%; }
+
 /*# sourceMappingURL=general.css.map */
