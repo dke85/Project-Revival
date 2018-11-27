@@ -1,3 +1,6 @@
+$mobile-portrait: 361px;
+$mobile-landscape: 321px;
+$pc-full: 974px;
 
 .container-fluid{
     .navbar-default{
@@ -5,9 +8,9 @@
     }
     a{
         color: rgb(28,142,62);
-        font-weight: bolder;
+        font-weight: normal;
         text-shadow: 1px 1px 2px black;
-        font-size: 1.25em;
+        font-size: 1.0em;
     }
 }
     
@@ -29,6 +32,15 @@
     text-align: center;
     li{
         float: left;
+    }
+}
+
+@media only screen and (min-device-width: $pc-full){
+    .navbar.row{
+        height: 50px;
+    }
+    .navbar-brand{
+        max-width: 50px;
     }
 }
         

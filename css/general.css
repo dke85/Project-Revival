@@ -2,9 +2,9 @@
   background-color: #3f48cc; }
 .container-fluid a {
   color: #1c8e3e;
-  font-weight: bolder;
+  font-weight: normal;
   text-shadow: 1px 1px 2px black;
-  font-size: 1.25em; }
+  font-size: 1.0em; }
 
 .navbar-brand {
   width: 100%; }
@@ -23,6 +23,12 @@
   .navbar-nav li {
     float: left; }
 
+@media only screen and (min-device-width: 974px) {
+  .navbar.row {
+    height: 50px; }
+
+  .navbar-brand {
+    max-width: 50px; } }
 .title {
   text-align: center;
   font-size: 3em; }
