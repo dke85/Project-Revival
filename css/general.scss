@@ -1,6 +1,11 @@
 $mobile-portrait: 361px;
 $mobile-landscape: 321px;
 $pc-full: 974px;
+$tablet: 767px;
+
+header{
+    width:102%;
+}
 
 .container-fluid{
     .navbar-default{
@@ -43,6 +48,12 @@ $pc-full: 974px;
         max-width: 50px;
     }
 }
+
+@media only screen and (max-device-width: $tablet){
+    .news{
+        display: none;
+    }
+}
         
 .title{
     text-align: center;
@@ -57,4 +68,14 @@ section.core.container-fluid.col-sm-12.col-md-8{
     background-color: #DAE5F1;
     margin-top: 25px;
     padding: 1% 10% 0% 10%;
+}
+
+footer{
+    width:100%;
+    .col-sm-12{
+        p{    
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
 }
