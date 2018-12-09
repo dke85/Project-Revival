@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="137.97653mm"
+   height="31.951584mm"
+   viewBox="0 0 137.97653 31.951584"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="projectrevival.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="34.854139"
+     inkscape:cy="-124.32703"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.177772,-25.921292)">
+    <rect
+       id="rect10"
+       width="137.66678"
+       height="31.641829"
+       x="34.332649"
+       y="26.07617"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.30975541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="2.6368191" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.68999"
+       y="44.914551"
+       id="text2498"><tspan
+         sodipodi:role="line"
+         x="102.68999"
+         y="44.914551"
+         id="tspan2496"
+         style="stroke-width:0.26458332"><tspan
+           x="102.68999"
+           y="44.914551"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:expanded;font-size:10.58333302px;font-family:'Engravers MT';-inkscape-font-specification:'Engravers MT, Medium Expanded';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan2494">Project Revival</tspan></tspan></text>
+    <circle
+       style="fill:#c0b346;fill-opacity:1;stroke:#000000;stroke-width:0.37293652;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path825"
+       cx="38.047848"
+       cy="29.954187"
+       r="1.7750263" />
+    <circle
+       style="fill:#c0b346;fill-opacity:1;stroke:#000000;stroke-width:0.37293652;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path825-0"
+       cx="167.86879"
+       cy="29.811834"
+       r="1.7750263" />
+    <circle
+       style="fill:#c0b346;fill-opacity:1;stroke:#000000;stroke-width:0.37293652;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path825-0-5"
+       cx="168.15349"
+       cy="53.598995"
+       r="1.7750263" />
+    <circle
+       style="fill:#c0b346;fill-opacity:1;stroke:#000000;stroke-width:0.37293652;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path825-0-8"
+       cx="38.172764"
+       cy="54.145157"
+       r="1.7750263" />
+  </g>
+</svg>

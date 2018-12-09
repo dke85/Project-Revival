@@ -7,6 +7,22 @@ header{
     width:102%;
 }
 
+/* Keeping page from overflowing in smaller sizes */
+.row{
+    max-width:100%;
+}
+
+.container-fluid{
+    padding: 0px;
+}
+
+object#headlogo{
+    margin-top: 15px;
+    max-height: 75px;
+    width: auto;
+    max-width: 100%;
+}
+
 .container-fluid{
     .navbar-default{
         background-color: rgb(63,72,204);
@@ -53,21 +69,28 @@ header{
     .news{
         display: none;
     }
+    .blank{
+        display: none;
+    }
 }
         
 .title{
     text-align: center;
     font-size: 3em;
 }
-
+/*  ---Removed but holding for color---
 .Jumbotron{
     background-color: rgb(28,142,62);
 }
-
+*/
 section.core.container-fluid.col-sm-12.col-md-8{
     background-color: #DAE5F1;
-    margin-top: 25px;
     padding: 1% 10% 0% 10%;
+}
+
+object.flavor {
+    width: 10%;
+    max-height: 35px;
 }
 
 footer{
